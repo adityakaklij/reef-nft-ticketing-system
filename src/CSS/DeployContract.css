@@ -1,0 +1,37 @@
+.deployCont{
+    padding-top: 60px;
+}
+
+.deployCont button{
+    margin: 20px;
+}
+
+.deploy1155 input{
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 0.5px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.deploy1155Heading{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.btns2{
+    margin: 20px;
+    margin-top: 5%;
+    
+}
+
+.btns2 button{
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+.btn11{
+    margin-right: 30px;
+}
+.btn11{
+    padding: 10px;
+}

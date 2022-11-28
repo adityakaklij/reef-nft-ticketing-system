@@ -1,0 +1,13 @@
+.mainDiv input{
+    margin-right: 10px;
+}
+
+.inputContAdd{
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    border: 0.5px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
